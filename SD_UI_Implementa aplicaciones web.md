@@ -25,12 +25,14 @@ El propósito de esta fase es motivar a los estudiantes y establecer las bases t
     * Ver videos cortos y dinámicos que muestren el impacto de las aplicaciones web en la vida diaria (e-commerce, redes sociales, plataformas de streaming).
     * Discutir conceptos clave como **Aplicaciones web**, **Sistemas de información** y **Pruebas (testing)** de forma accesible, usando analogías. Por ejemplo: una prueba es como probar un videojuego antes de que salga al público para encontrar errores.
 
-3.  **Primer Contacto con Python: Google Colab (3 horas):**
-    * Configurar rápidamente el entorno de trabajo usando **Google Colaboratory (Colab)**, sin necesidad de instalaciones complejas.
+3.  **Primer Contacto con Python: Google Colab (3.5 horas):**
+    * Configurar rápidamente el entorno de trabajo usando **Google Collaboratory (Colab)**, sin necesidad de instalaciones complejas.
     * Explorar conceptos básicos de Python a través de ejercicios guiados y muy prácticos:
         * **Variables:** Crear variables para almacenar su nombre, edad, etc.
         * **Estructuras de control:** Usar `if/else` para crear un "quiz" simple que responda según la edad del usuario, y `for` loops para imprimir los números del 1 al 10.
-        * **Estructuras de datos:** Crear listas de sus series favoritas o diccionarios con información de un amigo.
+        * **Listas, Tuplas, Conjuntos y Diccionarios:** Crear listas de sus series favoritas o diccionarios con información de un amigo.
+        * **Funciones:** Aprender a definir y llamar funciones para encapsular bloques de código y reutilizarlos. Crear una función simple para calcular el área de un cuadrado.
+        * **POO (Programación Orientada a Objetos):** Introducir los conceptos de clases, objetos, atributos y métodos con un ejemplo práctico y tangible, como crear una clase "Coche" con atributos como color y marca.
     * Fomentar el uso de **ChatGPT** o **Gemini** para generar explicaciones simples o ejemplos de código para practicar.
 
 4.  **Configurando el Entorno Productivo (1.5 horas):**
