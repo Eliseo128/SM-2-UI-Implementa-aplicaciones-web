@@ -1,4 +1,4 @@
-## Secuencia Didáctica: Desarrollando Aplicaciones Web con Python y Django
+## Secuencia Didáctica: Implementa Aplicaciones Web con Python y Django
 
 ---
 
